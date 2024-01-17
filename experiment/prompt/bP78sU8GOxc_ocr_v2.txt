@@ -1,0 +1,46 @@
+single, photon, structured, light, varun, sundar, one, sizhuo, one, aswin, sankaranarayanan, mohit, gupta, one, one, university, wisconsin, madison, carnegie, melon, university, wisconsin, university, wisconsin, madison, cvpr, 2022, pittsburgh, mellon, carnegie, university, ennsylvani, single, photon, structured, light, varun, sundar, one, sizhuo, one, aswin, sankaranarayanan, mohit, gupta, one, one, university, wisconsin, madison, carnegie, melon, university, wisconsin, university, wisconsin, madison, cvpr, 2022, pittsburgh, mellon, carnegie, university, ennsylvani
+tradeoffs, structured, light, speed, precision, robustness, tradeoffs, structured, light, speed, precision, robustness
+tradeoffs, structured, light, speed, precision, robustness, tradeoffs, structured, light, speed, precision, robustness
+tradeoffs, structured, light, speed, precision, robustness, tradeoffs, structured, light, speed, precision, robustness
+challenging, operating, scenarios, challenging, operating, scenarios
+challenging, operating, scenarios, strong, ambient, light, dark, objects, power, light, challenging, operating, scenarios, strong, ambient, light, dark, objects, power, light
+single, photon, cameras, single, photon, cameras
+single, photon, cameras, pixel, photon, teaspoon, camera, pixel, array, single, photon, cameras, pixel, photon, teaspoon, camera, pixel, array
+photon, teaspoon, random, arrival, photons, recorded, value, photon, teaspoon, recorded, value, one, photon, teaspoon, random, arrival, photons, recorded, value, photon, teaspoon, recorded, value, one
+photon, teaspoon, random, arrival, photons, recorded, value, photon, teaspoon, recorded, value, one, photon, teaspoon, recorded, value, single, photon, measurements, are, binary, random, variables, photon, teaspoon, random, arrival, photons, recorded, value, photon, teaspoon, recorded, value, one, photon, teaspoon, recorded, value, single, photon, measurements, are, binary, random, variables
+photon, noise, spad, images, photon, noise, spad, images
+photon, noise, spad, images, bright, region, high, frequency, ones, dark, region, low, frequency, ones, photon, noise, spad, images, bright, region, high, frequency, ones, dark, region, low, frequency, ones
+photon, noise, spad, images, bright, region, high, frequency, ones, dark, region, low, frequency, ones, noise, randomness, photon, arrivals, photon, noise, spad, images, bright, region, high, frequency, ones, dark, region, low, frequency, ones, noise, randomness, photon, arrivals, photon, noise
+single, photon, structured, light, binary, patterns, scene, dmd, projector, 20000, binary, images, spad, camera, 20000, single, photon, structured, light, binary, patterns, scene, dmd, projector, 20000, binary, images, spad, camera, 20000
+single, photon, structured, light, binary, patterns, scene, dmd, projector, 20000, binary, images, spad, camera, 20000, single, photon, structured, light, binary, patterns, scene, dmd, projector, 20000, binary, images, spad, camera, 20000
+code, design, for, single, photon, code, design, for, single, photon
+code, design, for, single, photon, gray, codes, parity, patterns, robustness, photon, noise, code, design, for, single, photon, gray, codes, parity, patterns, robustness, photon, noise
+code, design, for, single, photon, gray, codes, parity, patterns, robustness, photon, noise, gray, codes, parity, patterns, binary, shifting, robustness, imaging, artifacts, code, design, for, single, photon, gray, codes, parity, patterns, robustness, photon, noise, gray, codes, parity, patterns, binary, shifting, robustness, imaging, artifacts
+reconstruction, results, reconstruction, results
+single, photon, prototype, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, swissspad, array, single, photon, prototype, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, 2018, swissspad, array
+single, photon, prototype, white, led, dlp, 6500, dmd, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, swissspad, array, single, photon, prototype, white, led, dlp, 6500, dmd, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, 2018, swissspad, array
+single, photon, prototype, white, led, dlp, 6500, dmd, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, swissspad, array, single, photon, prototype, white, led, dlp, 6500, dmd, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, 2018, swissspad, array
+single, photon, prototype, white, led, dlp, 6500, dmd, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, swissspad, array, single, photon, prototype, white, led, dlp, 6500, dmd, swissspad, ulku, ieee, journal, selected, topics, quantum, electronics, 2018, swissspad, array
+static, scene, static, scene
+projected, patterns, static, scene, spad, captures, projected, patterns, static, scene, spad, captures
+projected, patterns, static, scene, spad, captures, projected, patterns, static, scene, spad, captures
+projected, patterns, static, scene, spad, captures, repeated, gray, rmse, 9.7, projected, patterns, static, scene, spad, captures, repeated, gray, rmse, 9.7
+projected, patterns, static, scene, spad, captures, repeated, gray, rmse, 9.7, proposed, one, projected, patterns, static, scene, spad, captures, repeated, gray, rmse, 9.7, proposed, one
+dark, objects, acktar, velvet, dark, objects, acktar, velvet
+reference, image, absorbance, 99.9%, dark, objects, acktar, velvet, reference, image, absorbance, 99.9, dark, objects, acktar, velvet
+reference, image, absorbance, 99.9%, dark, objects, acktar, velvet, reference, image, absorbance, 99.9, dark, objects, acktar, velvet
+reference, image, absorbance, 99.9%, dark, objects, acktar, velvet, single, binary, frame, reference, image, absorbance, 99.9, dark, objects, acktar, velvet, single, binary, frame
+reference, image, absorbance, 99.9%, dark, objects, acktar, velvet, single, binary, frame, reconstruction, reference, image, absorbance, 99.9, dark, objects, acktar, velvet, single, binary, frame, reconstruction
+dynamic, scenes, non, rigid, object, dynamic, scenes, non, rigid, object
+dynamic, scenes, non, rigid, object, rgb, video, fps, dynamic, scenes, non, rigid, object, rgb, video, fps
+dynamic, scenes, non, rigid, object, rgb, video, fps, dynamic, scenes, non, rigid, object, rgb, video, fps
+dynamic, scenes, non, rigid, object, rgb, video, fps, dynamic, scenes, non, rigid, object, rgb, video, fps
+dynamic, scenes, non, rigid, object, rgb, video, fps, depth, video, 1000, fps, rendered, fps, depth, 480, 460, 440, dynamic, scenes, non, rigid, object, rgb, video, fps, depth, video, 1000, fps, rendered, fps, depth, 480, 460, 440
+reconstruction, dynamic, scenes, non, rigid, object, rgb, video, fps, 0.3s, depth, video, 1000, fps, rendered, fps, depth, 480, 460, 440, reconstruction, dynamic, scenes, non, rigid, object, rgb, video, fps, 0.3s, depth, video, 1000, fps, rendered, fps, depth, 480, 460, 440
+rgb, capture, fps, jack, the, box, rgb, capture, fps, jack, the, box
+rgb, capture, fps, jack, the, box, kinect, fps, depth, 420, 400, 380, 360, rgb, capture, fps, jack, the, box, kinect, fps, depth, 420, 400, 380, 360
+rgb, capture, fps, jack, the, box, kinect, fps, proposed, 2000, fps, rendered, fps, depth, 420, 400, 380, 360, rgb, capture, fps, jack, the, box, kinect, fps, proposed, 2000, fps, rendered, fps, depth, 420, 400, 380, 360
+rgb, capture, fps, jack, the, box, kinect, fps, proposed, 2000, fps, rendered, fps, depth, 420, 400, 380, 360, rgb, capture, fps, jack, the, box, kinect, fps, proposed, 2000, fps, rendered, fps, depth, 420, 400, 380, 360
+scene, dmd, projector, 20000, spad, camera, 20000, summary, high, speed, rapid, hand, motion, high, precision, low, albedo, car, tire, single, photon, structured, light, can, enable, extreme, imaging, scene, dmd, projector, binary, patterns, 20000, spad, camera, binary, captures, 20000, summary, high, speed, rapid, hand, motion, high, precision, low, albedo, car, tire, single, photon, structured, light, can, enable, extreme, imaging
+scene, dmd, projector, 20000, spad, camera, 20000, summary, high, speed, rapid, hand, motion, high, precision, low, albedo, car, tire, single, photon, structured, light, can, enable, extreme, imaging, scene, dmd, projector, binary, patterns, 20000, spad, camera, binary, captures, 20000, summary, high, speed, rapid, hand, motion, high, precision, low, albedo, car, tire, single, photon, structured, light, can, enable, extreme, imaging
+scene, dmd, projector, 20000, spad, camera, 20000, summary, high, speed, rapid, hand, motion, high, precision, low, albedo, car, tire, single, photon, structured, light, can, enable, extreme, imaging, scene, dmd, projector, binary, patterns, 20000, spad, camera, binary, captures, 20000, summary, high, speed, rapid, hand, motion, high, precision, low, albedo, car, tire, single, photon, structured, light, can, enable, extreme, imaging

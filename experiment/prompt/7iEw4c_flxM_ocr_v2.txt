@@ -1,0 +1,53 @@
+sia, 2018, bussio, belgium, sia, 2018, bussio, belgium
+2018, 2018
+shoc, vid, shoc, vid
+sia, 2018, sia, 2018
+<EMPTY>
+moc, wave, biog, passe, moc, wave, biog, passe
+hsshould, russia, 2018, belgium, hsshould, russia, 2018, belgium
+russia, 2018, belgium, russia, 2018, belgium
+<EMPTY>
+stola, vis, shoc, stola, vis, shoc
+one, detect, the, players, the, thermal, data, augmentation, world, cup, russia, 2018, belgium, transfer, the, detections, the, fisheye, one, detect, the, players, the, thermal, data, augmentation, world, cup, russia, 2018, belgium, transfer, the, detections, the, fisheye
+shoz, vaxt, shoz, vaxt
+<EMPTY>
+<EMPTY>
+4000820050, fisheye, field, view, 4000820050, fisheye, field, view
+thermal, field, view, the, fisheye, fisheye, field, view, thermal, field, view, the, fisheye, fisheye, field, view
+thermal, field, view, the, fisheye, 22%, the, field, 200, fisheye, field, view, thermal, field, view, the, fisheye, the, field, 200, fisheye, field, view
+hummel, ander, abouink, desmi, oks, mont, ussia, 2018, hummel, ander, abouink, desmi, oks, mont, ussia, 2018
+wesp, wesp
+cvpr, liege, universite, uclouvain, abstract, arthus, adaptive, real, time, human, through, online, trackman, tion, sports, wake, fits, world, cup, russia, 2018, belgium, desmi, sophe, hummel, aalborg, cvpr, liege, universite, uclouvain, abstract, arthus, adaptive, real, time, human, through, online, trackman, tion, sports, wake, fits, world, cup, russia, 2018, belgium, desmi, sophe, hummel, aalborg
+expert, salesprofielen, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019, expert, salesprofielen, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019
+profielen, expert, salesprofielen, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019, profielen, expert, salesprofielen, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019
+sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019
+sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019
+sporting, real, time, segmentation, new, weights, student, network, fps, one, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019, sporting, real, time, segmentation, new, weights, student, network, fps, one, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, arthus, adaptive, real, time, human, segmentation, sports, through, online, distillation, best, paper, award, cvsports, 2019
+botvisso, roe, viss, botvisso, roe, viss
+teacher, yolo, calibration, teacher, yolo, calibration
+teacher, yolo, calibration, babad, teacher, yolo, calibration, babad
+biog, visser, bios, biog, visser, bios
+sia, 2018, russia, 2018, sia, 2018, russia, 2018
+gou, extraction, gou, extraction
+extraction, scaling, rotation, blending, 2048, extraction, scaling, rotation, blending, 2048
+belgiu, world, cup, russia, 2018, belgium, belgiu, world, cup, russia, 2018, belgium
+belgium, russia, 2018, belgium, belgium, russia, 2018, belgium
+ussia, 2018, belgium, ussia, 2018, belgium
+vibe, basia, 2018, vibe, basia, 2018
+sia, 2018, sia, 2018
+mog, viss, mog, viss
+artificially, added, players, dilated, motion, mask, loss, zeroed, out, artificially, added, players, dilated, motion, mask, loss, zeroed, out
+artificially, added, players, dilated, motion, mask, loss, zeroed, out, motion, and, artificial, players, mask, artificially, added, players, dilated, motion, mask, loss, zeroed, out, motion, and, artificial, players, mask
+artificially, added, players, dilated, motion, mask, loss, zeroed, out, motion, and, artificial, players, mask, artificially, added, players, dilated, motion, mask, loss, zeroed, out, motion, and, artificial, players, mask
+bol, russia, 2018, belgium, bol, russia, 2018, belgium
+whole, frame, inside, region, outside, region, video, time, mumy, whole, frame, inside, region, outside, region, video, time, minutes, mumy
+cancel, loss, the, motion, mask, activate, loss, everywhere, cancel, loss, everywhere, with, data, augmentation, our, full, method, most, players, correctly, detected, few, false, positives, able, detect, players, but, not, good, our, full, method, 1000s, detections, mostly, false, positives, without, data, augmentation, few, players, detected, unusable, practice, unable, make, any, detection, true, positives, 1000s, detections, mostly, false, positives, cancel, loss, the, motion, mask, activate, loss, everywhere, cancel, loss, everywhere, with, data, augmentation, our, full, method, most, players, correctly, detected, few, false, positives, able, detect, players, but, not, good, our, full, method, 1000s, detections, mostly, false, positives, without, data, augmentation, few, players, detected, unusable, practice, unable, make, any, detection, true, positives, 1000s, detections, mostly, false, positives
+cancel, loss, the, motion, mask, activate, loss, everywhere, cancel, loss, everywhere, with, data, augmentation, our, full, method, most, players, correctly, detected, few, false, positives, able, detect, players, but, not, good, our, full, method, 1000s, detections, mostly, false, positives, without, data, augmentation, few, players, detected, unusable, practice, unable, make, any, detection, true, positives, 1000s, detections, mostly, false, positives, cancel, loss, the, motion, mask, activate, loss, everywhere, cancel, loss, everywhere, with, data, augmentation, our, full, method, most, players, correctly, detected, few, false, positives, able, detect, players, but, not, good, our, full, method, 1000s, detections, mostly, false, positives, without, data, augmentation, few, players, detected, unusable, practice, unable, make, any, detection, true, positives, 1000s, detections, mostly, false, positives
+30300, 30300
+his, would, cup, russia, 2018, belgium, his, would, cup, russia, 2018, belgium
+shoe, visser, shoe, visser
+teacher, yolo, calibration, student, yolo, tiny, teacher, yolo, calibration, student, yolo, tiny
+200, extraction, scaling, rotation, blending, 200, extraction, scaling, rotation, blending
+artificially, added, players, dilated, motion, mask, loss, zeroed, out, artificially, added, players, dilated, motion, mask, loss, zeroed, out
+expert, salesprofielen, expert, salesprofieles, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training, expert, salesprofielen, expert, salesprofieles, sporting, real, time, segmentation, new, weights, student, network, fps, ground, truth, segmentation, teacher, network, seconds, image, online, dataset, online, training
+sia, 2018, sia, 2018

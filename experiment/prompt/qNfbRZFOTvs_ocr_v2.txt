@@ -1,0 +1,38 @@
+inference, black, hole, fluid, dynamics, from, sparse, interferometric, measurements, aviad, levis, one, david, joel, tropp, charles, gammie, katie, bouman, one, lee, caltech, one, illinois, inference, black, hole, fluid, dynamics, from, sparse, interferometric, measurements, aviad, levis, one, david, daeyoung, joel, tropp, charles, gammie, katie, bouman, one, lee, caltech, one, illinois
+event, horizon, telescope, image, event, horizon, telescope, image
+computational, imaging, event, horizon, telescope, image, computational, imaging, event, horizon, telescope, image
+computational, imaging, event, horizon, telescope, image, computational, imaging, event, horizon, telescope, image
+inference, fluid, dynamics, event, horizon, telescope, inference, fluid, dynamics, event, horizon, telescope
+inference, fluid, dynamics, event, horizon, telescope, inference, fluid, dynamics, event, horizon, telescope
+interferometric, measurements, underlying, source, fourier, magnitude, phase, interferometric, measurements, underlying, source, fourier, magnitude, phase
+interferometric, measurements, underlying, source, fourier, magnitude, phase, interferometric, measurements, underlying, source, fourier, magnitude, phase
+key, challenge, sparse, measurements, measurements, magnitude, phase, key, challenge, sparse, measurements, measurements, magnitude, phase
+inference, statistical, properties, statistical, properties, the, underlying, source, inference, magnitude, phase, inference, statistical, properties, statistical, properties, the, underlying, source, inference, magnitude, phase
+inference, statistical, properties, statistical, properties, the, underlying, source, spatial, correlations, inference, magnitude, phase, inference, statistical, properties, statistical, properties, the, underlying, source, spatial, correlations, inference, magnitude, phase
+video, dynamics, random, field, static, image, video, video, dynamics, random, field, static, image, video
+noise, video, dynamics, pde, random, field, static, image, noise, video, dynamics, pde, random, field, static, image
+noise, video, dynamics, pde, random, field, correlations, velocity, field, static, image, noise, video, dynamics, pde, random, field, correlations, velocity, field, static, image
+noise, video, dynamics, pde, random, field, correlations, velocity, field, static, image, noise, video, dynamics, pde, random, field, correlations, velocity, field, static, image
+noise, video, dynamics, pde, random, field, correlations, velocity, field, static, image, noise, video, dynamics, pde, random, field, correlations, velocity, field, static, image
+key, challenge, unknown, random, source, pixel, values, for, samples, sample, one, sample, key, challenge, unknown, random, source, pixel, values, for, samples, sample, one, sample
+key, challenge, unknown, random, source, pixel, values, for, samples, sample, one, sample, key, challenge, unknown, random, source, pixel, values, for, samples, sample, one, sample
+key, challenge, unknown, random, source, pixel, values, for, samples, sample, one, sample, key, challenge, unknown, random, source, pixel, values, for, samples, sample, one, sample
+velocity, correlations, pde, which, pde, parameters, best, fit, random, field, random, field, velocity, correlations, pde, which, pde, parameters, best, fit, random, field, random, field
+random, field, top, modes, velocity, correlations, pde, random, field, top, modes, velocity, correlations, pde
+random, field, top, modes, velocity, correlations, pde, random, field, top, modes, velocity, correlations, pde
+random, field, projection, top, modes, velocity, correlations, pde, random, field, projection, top, modes, velocity, correlations, pde
+random, field, projection, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, velocity, one, correlations, pde, one, one, one, one, one, random, field, projection, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, velocity, one, correlations, pde, one, one, one, one, one
+random, field, projection, top, modes, velocity, correlations, pde, random, field, projection, top, modes, velocity, correlations, pde
+random, field, projection, top, modes, velocity, correlations, pde, random, field, projection, top, modes, velocity, correlations, pde
+random, field, projection, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, velocity, correlations, pde, one, one, one, one, one, one, one, 660, random, field, projection, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, velocity, correlations, pde, one, one, one, one, one, one, one, 660
+projection, residual, loss, velocity, correlations, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, one, one, projection, residual, loss, velocity, correlations, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, one, one
+projection, residual, loss, velocity, correlations, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, true, parameters, one, one, projection, residual, loss, velocity, correlations, projection, residual, 2800, 2600, 2400, 2200, 2000, 1800, 1600, 1400, true, parameters, one, one
+projection, onto, sparse, fourier, vectors, top, modes, fourier, magnitude, fourier, phase, projection, onto, sparse, fourier, vectors, top, modes, fourier, magnitude, fourier, phase
+simulation, results, measurements, recovery, 50μas, global, minimum, true, simulation, results, measurements, recovery, 50μas, global, minimum, true
+simulation, results, true, source, measurements, recovery, 50μas, global, minimum, true, simulation, results, true, source, measurements, recovery, 50μas, global, minimum, true
+simulation, results, true, source, measurements, increasing, sparsity, 50μas, global, minimum, true, 50μas, global, minimum, true, simulation, results, true, source, measurements, increasing, sparsity, 50μas, global, minimum, true, 50μas, global, minimum, true
+true, source, simulation, results, measurements, state, the, art, imaging, optical, flow, true, source, simulation, results, measurements, state, the, art, imaging, optical, flow
+true, source, simulation, results, measurements, state, the, art, imaging, optical, flow, true, source, simulation, results, measurements, state, the, art, imaging, optical, flow
+simulation, results, true, source, our, approach, state, the, art, imaging, optical, flow, saint, simulation, results, true, source, our, approach, state, the, art, imaging, optical, flow, saint
+simulation, results, complex, black, hole, dynamics, spde, model, based, recovered, parameters, increasing, measurement, sparsity, simulation, results, complex, black, hole, dynamics, spde, model, based, recovered, parameters, increasing, measurement, sparsity
+simulation, results, complex, black, hole, dynamics, spde, model, based, recovered, parameters, increasing, measurement, sparsity, simulation, results, complex, black, hole, dynamics, spde, model, based, recovered, parameters, increasing, measurement, sparsity
