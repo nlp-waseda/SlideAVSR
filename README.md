@@ -133,4 +133,13 @@ python3 inference.py \
 Our code and dataset are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja) license. Commercial use is prohibited.
 
 ### Citation
-Coming soon...
+```
+@misc{wang2024slideavsr,
+      title={SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition}, 
+      author={Hao Wang and Shuhei Kurita and Shuichiro Shimizu and Daisuke Kawahara},
+      year={2024},
+      eprint={2401.09759},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
